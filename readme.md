@@ -9,7 +9,6 @@
 4. [Automatisation des Tests](#automatisation-des-tests)
 5. [Cas de Test](#cas-de-test)
 6. [Dépannage](#dépannage)
-7. [Contributions et Support](#contributions-et-support)
 
 ## Prérequis
 
